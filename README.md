@@ -61,11 +61,12 @@ Geographic locality seems like an important factor to determine which domains
 should be allowed. For example, people are mostly interested in local news and 
 use the local branches of their banks.
 
-You can create your localization of this repository either by forking it or
-creating an independent copy. You are also welcome to create thematic lists (e.g. 
-"Gardening in Spanish") that would work for a more global audience.
-Our goal is not any kind of profit but to provide tools for safe web browsing as 
-widely as possible.
+You can create your localization of the [sample
+repository](https://github.com/u-allow/sample) either by forking it or creating
+an independent copy. You are also welcome to create thematic lists (e.g.
+"Gardening in Spanish") that would work for a more global audience. Our goal is
+not any kind of profit but to provide tools for safe web browsing as widely as
+possible.
 
 What we provide:
 
@@ -90,8 +91,12 @@ groups](https://github.com/u-allow/u-allow#local-groups)!
 
 ### What about domains of adult content?
 
-While we understand these sites are popular, we don't want to include those to
-avoid controversy. You are free to add them to your custom configurations. 
+As these are hugely popular it's impractical to filter them from our list if we
+want good coverage so as a general rule we let these pass.
+
+Lists can be customized to prevent access to sensitive content, but we consider
+our target audience as responsible adults who can decide what content they want
+to consume.
 
 ### Do you want to control the Internet use of the differently abled?
 
