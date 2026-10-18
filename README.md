@@ -1,10 +1,13 @@
 # uAllow - Allow-Lists for the Vulnerable 
 
-This the sample repository for the uAllow project aimed at providing uBlock
+This a repository of Cloudflare top domains for the uAllow project aimed at providing uBlock
 **allow-lists** for the vulnerable among us to provide a safer web browsing 
 experience and avoid scams. 
 
-**The list is [here](list/similarweb.txt)**
+**The lists are [here](list/)**
+
+**WARNING: This list is compiled from statistical DNS request data. Some domains
+may be reregistered to malicious parties. Use the smaller lists when possible.**
 
 While people are constantly educated about being careful about opening
 *"suspicious links"* this advice fundamentally misses that:
